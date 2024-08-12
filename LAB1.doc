@@ -1,0 +1,37 @@
+Aim:
+Introduction to Packet Tracer, Peer-to-Peer Communication, Study of Cables and
+its Color Codes
+
+ Procedure:
+1. Open Packet Tracer:
+■ Launch Cisco Packet Tracer on your computer.
+■ Familiarize yourself with the interface, including the workspace, device
+selection, and tools.
+2. Create a Simple Network:
+■ Drag two computers (PC-PT) onto the workspace.
+■ Drag a switch (Switch-PT) onto the workspace.
+■ Connect each computer to the switch using straight-through Ethernet
+cables.
+
+3. Configure IP Addresses:
+■ Click on the first computer, go to the Desktop tab, and select IP
+Configuration.
+■ Assign an IP address (e.g., 192.168.1.1) and a subnet mask (e.g.,
+255.255.255.0).
+■ Click on the second computer, go to the Desktop tab, and select IP
+Configuration.
+■ Assign an IP address (e.g., 192.168.1.2) and a subnet mask (e.g.,
+255.255.255.0).
+
+4. Test Peer-to-Peer Communication:
+■ On the first computer, open the Command Prompt from the Desktop tab.
+■ Use the ping command to test connectivity to the second computer (e.g.,
+ping 192.168.1.2).
+■ Observe the response to ensure the computers can communicate.
+5. Study Cables and Color Codes:
+■ Examine different types of network cables provided (Ethernet, crossover).
+■ Note the color codes for each wire in the cables:
+■ Straight-through cable (used to connect different devices like a
+computer to a switch).
+■ Crossover cable (used to connect similar devices like computer to
+computer).
